@@ -1,0 +1,22 @@
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.exe.config
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.exe
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.pdb
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.AssemblyReference.cache
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.Form1.resources
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.Properties.Resources.resources
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.GenerateResource.cache
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.exe
+C:\Users\abdulsalam\Desktop\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.pdb
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.exe.config
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.exe
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\bin\Debug\towerOfHanoi.pdb
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.AssemblyReference.cache
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.SuggestedBindingRedirects.cache
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.Form1.resources
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.Properties.Resources.resources
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.GenerateResource.cache
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.exe
+D:\Programs backup\vs_code\vs2022\towerOfHanoi\towerOfHanoi\obj\Debug\towerOfHanoi.pdb
