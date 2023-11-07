@@ -1,6 +1,6 @@
 # Tower of Hanoi Visualizer
 
-Tower of Hanoi Visualizer is a Windows Forms application that allows you to interactively visualize and solve the Tower of Hanoi puzzle.
+Tower of Hanoi Visualizer is a C# application that allows you to interactively visualize and solve the Tower of Hanoi puzzle.
 
 ## Introduction
 The Tower of Hanoi is a classic puzzle that involves moving a stack of disks from one peg to another while obeying certain rules. This visualizer helps you understand and solve the puzzle step by step.
